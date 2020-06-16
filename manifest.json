@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Local Multiplayer"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "A small example of how to make a local multiplayer game."
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags": [],
+	"ClassTypes": "",
+	"Category": "",
+	"FocusAsset": "",
+	"Thumbnail": "TP_LocalMultiplayerTemplate.png",
+	"Screenshots":
+	[
+		"TP_LocalMultiplayerTemplate_Preview.png"
+	],
+	"SortKey": "_1",
+	"AdditionalFeaturePacks":
+	[
+		{
+			"MountName": "Geometry",
+			"DetailLevels":
+			[
+				"Standard",
+				"High"
+			]
+		}
+	]
+}

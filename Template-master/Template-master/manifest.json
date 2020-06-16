@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Template"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "A clean empty Template to create additional templates."
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags": [],
+	"ClassTypes": "",
+	"Category": "",
+	"FocusAsset": "",
+	"Thumbnail": "TP_Template.png",
+	"Screenshots":
+	[
+		"TP_Template_Preview.png"
+	],
+	"SortKey": "_1",
+	"AdditionalFeaturePacks":
+	[
+		{
+			"MountName": "Geometry",
+			"DetailLevels":
+			[
+				"Standard",
+				"High"
+			]
+		}
+	]
+}
