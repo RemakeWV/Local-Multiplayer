@@ -11,7 +11,7 @@
 	[
 		{
 			"Language": "en",
-			"Text": "A small example of how to make a local multiplayer game."
+			"Text": "Local multiplayer - using Game Instance to store persistent data."
 		}
 	],
 	"AssetTypes": [],
@@ -19,10 +19,10 @@
 	"ClassTypes": "",
 	"Category": "",
 	"FocusAsset": "",
-	"Thumbnail": "TP_LocalMultiplayerTemplate.png",
-	"Screenshots":
+	"Thumbnail": "TP_LocalMultiplayer.png",
+	"Screenshots": 
 	[
-		"TP_LocalMultiplayerTemplate_Preview.png"
+		"TP_LocalMultiplayer_Preview.png"
 	],
 	"SortKey": "_1",
 	"AdditionalFeaturePacks":
